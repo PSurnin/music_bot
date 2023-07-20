@@ -1,0 +1,12 @@
+PLAY_DESC = "Enter a channel and use this command with youtube or spotify link to play music"
+PLAY_HELP = "Enter a channel and send a link"
+NEXT_DESC = "Skip one audio"
+NEXT_HELP = "Skip one audio"
+STOP_DESC = "Stop music bot and disconnect him from voice channel"
+STOP_HELP = "Stop bot"
+PAUSE_DESC = "Pause playing music by bot"
+PAUSE_HELP = "Pause playing music by bot"
+RESUME_DESC = "Resume paused track"
+RESUME_HELP = RESUME_DESC
+QUEUE_DESC = "Show songs in queue"
+QUEUE_HELP = QUEUE_DESC
